@@ -1,0 +1,24 @@
+.banner {
+  background-image: url(../../images/Girl.jpg);
+  background-size: cover;
+  background-position: right 30% bottom 70%;
+  padding: 180px 0px;
+}
+
+.banner h1 {
+  margin-bottom: 70px;
+  margin-top: 10px;
+  color: #E1CA96;
+  text-shadow: 1px 1px 3px rgba(10,2,0,0.6);
+  font-size: 52px;
+  font-weight: bolder;
+}
+
+.banner p {
+  font-size: 20px;
+  color: #F1F7EE;
+}
+
+.banner.navbar{
+  margin-top: 200px;
+}

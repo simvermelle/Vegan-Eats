@@ -1,0 +1,29 @@
+.card{
+	background-color: white;
+	padding: 0px;
+	box-shadow: 0px 10px 30px rgba(0,0,0,0.1)
+	border-radius: 4px;
+	margin: 20px 0px;
+	text-align: center;
+	width: 500px;
+	height: 300px;
+	margin: 0 auto; 
+}
+
+
+.card h2{
+	color: #21243d;
+	font-size: 26px;
+	font-weight: bold;
+	font-weight: 500;
+	padding: 30px;
+}
+
+
+.card .search-form-control {
+	width: 300px;
+	align-items: center;
+	margin-left: 100px;
+	margin-top: 20px;
+
+}
