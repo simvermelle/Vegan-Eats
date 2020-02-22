@@ -1,14 +1,14 @@
 @import url('https://fonts.googleapis.com/css?family=Lora|Roboto&display=swap');
-@import url("components/avatar.css");
-@import url("components/banner.css");
-@import url("components/btn-flat.css");
-@import url("components/card.css");
-@import url("components/container.css");
-@import url("components/search-form.css");
-@import url("components/navbar.css");
-@import url("components/footer.css");
-@import url("components/card-category.css");
-@import url("components/cards.css");
+@import url("Components/avatar.css");
+@import url("Components/banner.css");
+@import url("Components/btn-flat.css");
+@import url("Components/card.css");
+@import url("Components/container.css");
+@import url("Components/search-form.css");
+@import url("Components/navbar.css");
+@import url("Components/footer.css");
+@import url("Components/card-category.css");
+@import url("Components/cards.css");
 
 
 body {
